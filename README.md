@@ -1,6 +1,6 @@
 practical 1
 
-# Quadratic Equation Roots Calculation
+# Quadratic Equation Roots Calculation 
 
 import cmath
 
