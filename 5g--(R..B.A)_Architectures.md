@@ -38,10 +38,11 @@ These pillars form the foundation to efficiently support the heterogeneous Key P
 
 
 
-***here you can see the reference pointarchitecture interface***
+
 
 ![image](https://github.com/Rjesh2006/5G-Architectures/assets/143868643/209760df-63a5-4db8-8fc8-b6d3ccec1e43)
 
+  ***here you can see the reference pointarchitecture interface***
 
 # 5G Interfaces
 
