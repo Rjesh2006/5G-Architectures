@@ -9,6 +9,27 @@ In the dynamic realm of 5G architecture, the interaction between network operati
 
 ![image](https://github.com/Rjesh2006/5G-Architectures/assets/143868643/3893fb73-5681-432f-bb70-3b03f7dc6f9a)
 
+# Network Functions in 5G Service-Based Architecture
+
+Assuming the role of either a service consumer or service producer, Network Functions are designed to be self-contained, independent, and reusable. Each Network Function service exposes its functionality through a Service-Based Interface (SBI), employing a well-defined REST interface using HTTP/2. To address issues related to TCP head-of-line (HOL) blocking, the Quick UDP Internet Connections (QUIC) protocol may be considered for future use.
+
+## Components of 5G Service-Based Architecture
+
+The 5G Service-Based Architecture (SBA) is composed of various components, including:
+
+1. **Service Consumer/Producer Roles:**
+   - Entities can take on the role of service consumers or service producers based on their requirements.
+
+2. **Network Functions (NFs):**
+   - Designed to be self-contained, independent, and reusable.
+
+3. **Service-Based Interface (SBI):**
+   - Each NF service exposes its functionality through a well-defined REST interface using HTTP/2.
+
+4. **QUIC Protocol:**
+  - Potential use of the Quick UDP Internet Connections (QUIC) protocol in the future to mitigate TCP head-of-line (HOL) blocking issues.
+
+
 
 ## Network Function Services
 
