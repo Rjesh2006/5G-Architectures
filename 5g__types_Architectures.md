@@ -29,6 +29,24 @@ The 5G Service-Based Architecture (SBA) is composed of various components, inclu
 4. **QUIC Protocol:**
   - Potential use of the Quick UDP Internet Connections (QUIC) protocol in the future to mitigate TCP head-of-line (HOL) blocking issues.
 
+# 5G Network Elements and Their Functionalities in short terms:---
+
+| Network Element                  | Functionality                                                     |
+|-----------------------------------|-------------------------------------------------------------------|
+| Access and Mobility Management Function (AMF) | - Access and mobility control.<br>- UE registration.<br>- Ends non-access stratum (NAS) signaling. |
+| Session Management Function (SMF) | - Session management.<br>- Control user plane traffic.            |
+| User Plane Function (UPF)         | - Responsible for packet forwarding and routing.<br>- Performs packet inspection.<br>- Implements Quality of Service (QoS). |
+| Network Slice Selection Function (NSSF) | - Supports network slice selection.<br>- Selects network slice instances to serve User Equipment (UE). |
+| Network Repository Function (NRF) | - Maintains NF profiles and their functions.<br>- Helps discover connections between NFs. |
+| Network Exposure Function (NEF)   | - Exposes network capabilities and events securely.               |
+| Unified Data Management (UDM)     | - Stores subscriber information.<br>- Supports identification, access authorization, and billing. |
+| Authentication Server Function (AUSF) | - Stores authentication keys to authenticate UEs.               |
+| Policy Control Function (PCF)     | - Maintains network policies to manage network behavior.          |
+| Application Function (AF)         | - Fulfills the role of an application server.<br>- Interacts with 5GC to provide services. |
+| gNodeB                            | - Hardware that connects to the network.<br>- Communicates wirelessly with UEs. |
+| Data Network (DN)                 | - External network, such as the Internet.                         |
+
+
 
 
 ## Network Function Services
@@ -92,10 +110,20 @@ The transition from 4G to 5G is not just a leap but a symphonic crescendo, heral
    - Enhances end-user experience by streamlining key network data production and consumption.
    - Generates insights and addresses market fragmentation in network analytics.
 
-# 5G Core Network
+# Benefits of 5G Service-Based Architecture (SBA)
 
-- Central hub for secure and reliable connectivity, offering access to all networking services.
-- Software-based, native to the cloud for higher deployment agility.
-- Crafted by industry experts following the 3GPP standard (5G core) to control and manage network functions.
+The 5G Service-Based Architecture (SBA) represents a significant evolution in network capabilities tailored to the demands of the 5G era. The approach revolves around exposing Network Functions' (NFs) capabilities through Representational State Transfer (REST) APIs, utilizing the HTTP/2.0 protocol for enhanced efficiency and performance.
 
+In the SBA framework, NFs' capabilities are presented through flexible interaction models, allowing for seamless integration between NFs based on either the Request/Response model or the Subscribe/Notify model. This flexibility accommodates the diverse needs of various 5G services, providing a versatile environment.
 
+One of the notable advantages of SBA is its ability to cater to Application-driven Digital Service Providers. This support enables providers to achieve greater agility and faster time-to-market for the rollout of new products and services in the dynamic 5G landscape.
+
+The modularity of NFs and their dynamic programmability are pivotal in the implementation of network slicing within the 5G architecture. This capability allows for the on-demand creation of multiple logical networks, serving different services simultaneously and contributing to a more efficient utilization of resources.
+
+SBA further promotes openness by facilitating the unified incorporation of third-party applications with the core network. This inclusive approach supports multi-vendor plug and play solutions, enhancing the versatility of the network ecosystem.
+
+To embrace modern deployment practices, SBA promotes a containerized and cloud-native approach for NFs. This deployment strategy not only fosters faster innovation but also expedites the overall service delivery process.
+
+Feel free to utilize and customize this information for your Git repository README or documentation as needed.
+
+(https://calsoftinc.com/blogs/2022/09/5g-service-based-architecture-sba.html)
