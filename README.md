@@ -3,7 +3,15 @@
 
 ## Overview of 5G Technology
 
-5G stands as the latest evolution in mobile network technology, succeeding 1G through 4G. It brings forth remarkable advancements in data transmission, offering peak speeds of up to 20 Gbps and consistently surpassing 100 Mbps in average speeds. This enhancement is made possible through the utilization of orthogonal frequency-division multiplexing (OFDM), employing channels spanning from 100 to 800 MHz for data transmission.
+*The 3GPP (3rd Generation Partnership Project) encompasses telecommunication technologies, covering Radio Access Networks (RAN), core transport networks, and various service capabilities.
+
+The advent of 5G technology has expanded the scope of mobile networks to deliver a wide range of wireless services across diverse platforms and multi-layer networks.
+
+The coexistence of human-centric and machine-type communications introduces diverse functional and performance requirements that 5G networks must support.*
+
+
+
+*5G stands as the latest evolution in mobile network technology, succeeding 1G through 4G. It brings forth remarkable advancements in data transmission, offering peak speeds of up to 20 Gbps and consistently surpassing 100 Mbps in average speeds. This enhancement is made possible through the utilization of orthogonal frequency-division multiplexing (OFDM), employing channels spanning from 100 to 800 MHz for data transmission.*
 
 ### Extending Beyond Mobile Communication
 
