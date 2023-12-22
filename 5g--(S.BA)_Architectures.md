@@ -1,6 +1,6 @@
-# 5G Architecture Overview
 
-## Service-Based Architecture
+
+# Service-Based Architecture
 
 In the dynamic realm of 5G architecture, the interaction between network operations is symbolized through a service-based or reference point representation. Described in a service-centric manner, network functions (NF) play a pivotal role as service producers, offering capabilities to authorized NF service consumers through meticulously designed service-based interfaces.
 
