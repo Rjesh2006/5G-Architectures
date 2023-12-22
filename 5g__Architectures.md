@@ -1,4 +1,4 @@
-## architecture.5g ##
+## architectur.5g ##
 
 ## Overview of 5G Technology
 
