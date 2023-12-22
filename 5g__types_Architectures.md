@@ -126,4 +126,7 @@ To embrace modern deployment practices, SBA promotes a containerized and cloud-n
 
 Feel free to utilize and customize this information for your Git repository README or documentation as needed.
 
+
+#Reference of data via:--Calsoftinc.com#
+
 (https://calsoftinc.com/blogs/2022/09/5g-service-based-architecture-sba.html) **Go through this website for more overview** 
