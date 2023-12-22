@@ -145,3 +145,9 @@ The 5G architecture includes several reference points (NG1 to NG15) that define 
       
 
 *The reference point representation of architecture follows traditional practices and provides a comprehensive view of the interactions between different elements in the 5G network.*
+
+
+# Reference of data via:- #gigamon.com
+
+**(https://docs.gigamon.com/doclib61/Content/GV-Cloud-OpenStack/5G-Service%20Based%20Interface%20Application.html)** 
+
