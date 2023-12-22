@@ -25,3 +25,50 @@ At the core of 5G's prowess lies the concept of Network Function Services. NF Se
 - **Modulation Poetry:** Where 4G found its expression in poetic modulation techniques like QAM and QPSK, 5G is set to compose a new verse with the avant-garde notes of Amplitude Phase-Shift Keying (APSK), promising a symphony of more efficient data transmission.
 
 The transition from 4G to 5G is not just a leap but a symphonic crescendo, heralding higher speeds, reduced latency, and an unparalleled connectivity tapestry. 5G emerges as the maestro orchestrating the harmonies of the future, weaving together the threads of IoT, AR, VR, and beyond.
+
+
+# 5G Network Functions Overview
+
+## 1. NRF (Network Repository Function)
+   - Centralizes storage for 5G NFs in the operator's network.
+   - Provides a standards-based API for NF registration and discovery.
+   - Crucial for the new service-based architecture (SBA) in the 5G core.
+
+## 2. PCF (Policy Control Function)
+   - Simplifies policy development and implementation in the 5G network.
+   - Designed with cloud-native principles for 5G service demands.
+   - Supports monetization and optimization of 5G capabilities.
+
+## 3. BSF (Binding Support Function)
+   - Comparable to 4G's Session Binding Function on the Diameter Routing Agent.
+   - Becomes necessary with multiple PCF systems in the network.
+
+## 4. SCP (Service Communication Proxy)
+   - Grants routing control, resiliency, and observability to the core network.
+   - Utilizes IT service mesh (ISTIO) for 5G-aware operations.
+   - Addresses issues from the new SBA in the 5G core.
+
+## 5. NSSF (Network Slicing Selection Function)
+   - Chooses the best network slice for user-requested services in the 5G environment.
+
+## 6. UDM (Unified Data Management) & UDR (User Data Repository)
+   - Cloud-native, similar to LTE's Home Subscriber Server (HSS).
+   - Manages credentials, authentication, and access based on user subscriptions.
+   - Supports key 5G features, completing authentication and approving network access.
+
+## 7. AUSF (Authentication Server Function)
+   - Conducts 5G authentication and Key Agreement method (5G AKA).
+   - Manages hidden or privacy-protected subscription identifiers during registration.
+   - Selected by AMF (Access and Mobility Function) during registration.
+
+## 8. NWDAF (Network Data Analytics Function)
+   - Enhances end-user experience by streamlining key network data production and consumption.
+   - Generates insights and addresses market fragmentation in network analytics.
+
+# 5G Core Network
+
+- Central hub for secure and reliable connectivity, offering access to all networking services.
+- Software-based, native to the cloud for higher deployment agility.
+- Crafted by industry experts following the 3GPP standard (5G core) to control and manage network functions.
+
+
