@@ -42,8 +42,55 @@ These pillars form the foundation to efficiently support the heterogeneous Key P
 
 ![image](https://github.com/Rjesh2006/5G-Architectures/assets/143868643/209760df-63a5-4db8-8fc8-b6d3ccec1e43)
 
-  ***here you can see the reference pointarchitecture interface***
 
+# Components of 5G Core
+
+
+1. **UPF (User Plane Function):**
+   - Responsible for packet forwarding and routing.
+   - Performs packet inspection and Quality of Service (QoS) implementation.
+
+2. **AMF (Access and Mobility Management Function):**
+   - Manages access and mobility control.
+   - Handles UE registration and terminates non-access stratum (NAS) signaling.
+
+3. **SMF (Session Management Function):**
+   - Manages and controls user plane traffic.
+   - Handles session management within the network.
+
+4. **NSSF (Network Slice Selection Function):**
+   - Supports network slice selection.
+   - Selects network slice instances to serve User Equipment (UE).
+
+5. **NEF (Network Exposure Function):**
+   - Exposes network capabilities and events securely.
+
+6. **NRF (Network Repository Function):**
+   - Maintains NF profiles and their functions.
+   - Assists in discovering connections between network functions.
+
+7. **AUSF (Authentication Server Function):**
+   - Stores authentication keys to authenticate User Equipments (UEs).
+
+8. **PCF (Policy Control Function):**
+   - Maintains network policies to manage network behavior.
+
+9. **UDM (Unified Data Management):**
+   - Stores subscriber information.
+   - Supports identification, access authorization, and billing.
+
+10. **DN (Data Network):**
+    - External network, often representing the Internet.
+
+11. **AF (Application Function):**
+    - Fulfills the role of an application server.
+    - Interacts with the 5G Core to provide various services.
+
+These components work collaboratively to ensure the effective functioning of the 5G Core network, supporting a wide range of services and functionalities.
+
+
+
+  ***here you can see the reference pointarchitecture interface***
 # 5G Interfaces
 
 ![image](https://github.com/Rjesh2006/5G-Architectures/assets/143868643/c855728b-afd6-41be-94b7-b0b537891247)
