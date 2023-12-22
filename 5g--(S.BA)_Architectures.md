@@ -5,7 +5,7 @@
 In the dynamic realm of 5G architecture, the interaction between network operations is symbolized through a service-based or reference point representation. Described in a service-centric manner, network functions (NF) play a pivotal role as service producers, offering capabilities to authorized NF service consumers through meticulously designed service-based interfaces.
 
 
-***here you can seee hoe the exactly the architecture loking likr in this given figure:- by techcomunity.microsoft***
+***here you can seee how  exactly the architecture loking like in this given figure:- by techcomunity.microsoft***
 
 ![image](https://github.com/Rjesh2006/5G-Architectures/assets/143868643/3893fb73-5681-432f-bb70-3b03f7dc6f9a)
 
