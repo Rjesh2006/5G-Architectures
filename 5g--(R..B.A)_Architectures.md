@@ -1,10 +1,4 @@
-# 5G Architecture by 3GPP
-
-The 3GPP (3rd Generation Partnership Project) encompasses telecommunication technologies, covering Radio Access Networks (RAN), core transport networks, and various service capabilities. 
-
-The advent of 5G technology has expanded the scope of mobile networks to deliver a wide range of wireless services across diverse platforms and multi-layer networks.
-
-The coexistence of human-centric and machine-type communications introduces diverse functional and performance requirements that 5G networks must support.
+# Reference point network architecture:--
 
 ## Fundamental Pillars in 5G System (5GS):
 
