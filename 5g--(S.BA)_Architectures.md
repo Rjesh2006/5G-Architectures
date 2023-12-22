@@ -1,8 +1,10 @@
 
 
-# Service-Based Architecture
+## Service-Based Architecture
 
-In the dynamic realm of 5G architecture, the interaction between network operations is symbolized through a service-based or reference point representation. Described in a service-centric manner, network functions (NF) play a pivotal role as service producers, offering capabilities to authorized NF service consumers through meticulously designed service-based interfaces.
+
+***3GPP 5G Core architecture
+The new 5GC architecture is based on what is called a Service-Based Architecture (SBA), which implements IT network principles and a cloud-native design approach. In this new architecture, each network function (NF) offers one or more services to other NFs via Application Programming Interfaces (API). Each NF is formed by a combination of small pieces of software code called as microservices. Some microservices can even be re-used for different NFs, making implementation more effective and facilitating independent life-cycle management – which allows upgrades and new functionalities to be deployed with zero impact on running services.***
 
 
 ***here you can seee how  exactly the architecture loking like in this given figure:- by techcomunity.microsoft***
