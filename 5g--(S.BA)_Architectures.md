@@ -1,5 +1,4 @@
 
-
 ## Service-Based Architecture
 
 **3GPP 5G Core architecture The new 5GC architecture is based on what is called a Service-Based Architecture (SBA), which implements IT network principles and a cloud-native design approach.**
