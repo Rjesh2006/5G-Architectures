@@ -91,7 +91,7 @@ The transition from 4G to 5G is not just a leap but a symphonic crescendo, heral
    - Supports monetization and optimization of 5G capabilities.
 
 ## 3. BSF (Binding Support Function)
-   - Comparable to 4G's Session Binding Function on the Diameter Routing Agent.
+   - Comparable to 4G's Session Binding Function on the Diameter Routing Agent
    - Becomes necessary with multiple PCF systems in the network.
 
 ## 4. SCP (Service Communication Proxy)
